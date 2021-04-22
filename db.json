@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "text": "Doc Appt",
+      "status": false,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "text": "Car Service Appt",
+      "status": true
+    },
+    {
+      "text": "Shopping",
+      "status": true,
+      "id": "3tGD78s"
+    },
+    {
+      "text": "Take out Trash",
+      "status": false,
+      "id": "Nh1Qpno"
+    },
+    {
+      "text": "Laundry",
+      "status": true,
+      "id": "4TVw3aS"
+    }
+  ]
+}
