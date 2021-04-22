@@ -6,7 +6,15 @@ https://nodejs.org/en/
 
 &nbsp;
 
-## 2 - Run the JSON server
+## 2 - Intall dependencies
+
+```
+npm install
+```
+
+&nbsp;
+
+## 3 - Run the JSON server
 
 ```
 npm run server
@@ -16,7 +24,7 @@ Open [http://localhost:5000/todos](http://localhost:5000/todos) to view the data
 
 &nbsp;
 
-## 3 - Run the dev server
+## 4 - Run the dev server
 
 ```
 npm start
