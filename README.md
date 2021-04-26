@@ -30,4 +30,11 @@ Open [http://localhost:5000/todos](http://localhost:5000/todos) to view the data
 npm start
 ```
 
+Or Using a Production Build:
+
+```
+npm install -g serve
+serve -s build -l 3000
+```
+
 Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
